@@ -21,4 +21,6 @@ function fizzBuzz(){
 		}
 		
 	}
+	console.log(arr);
 }
+fizzBuzz();
